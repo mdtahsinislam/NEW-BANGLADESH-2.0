@@ -1,0 +1,294 @@
+
+
+/* **********style *********/
+.My-name-Tahsin {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+.Abc{
+    /* width: 1360px; */
+ height: 100px;
+ display: flex;
+ justify-content: space-between;
+ flex-direction: row;
+ align-items: center;
+ 
+ 
+ }
+.nb{
+    justify-content: flex-start;
+    /* margin-left: 20px; */
+    font-family: Fira Sans;
+    font-size: 32px;
+
+}
+.bt{
+    border: 1px solid rgb(0,106,80);
+   border-radius: 8px;
+   height: 30px;
+   color:   rgb(0,106,80);;
+}
+
+
+/* **********style *********/
+.My-name-Tahsin {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.banner{
+    background-color: rgb(198,228,214);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 18px;
+}
+.sritishudha{
+    height: 330px;
+    width: 475px;
+}
+.bang{
+
+color:rgba(14, 14, 14, 0.945);
+font-family: Fira Sans;
+font-size: 24px;
+text-align: left;
+}
+.new{
+    color:black;
+font-family: Fira Sans;
+font-size: 40px;
+text-align: left;
+}
+.bu{
+    border: 1px solid rgb(0,106,80);
+    background-color:rgb(0,106,80) ;
+   border-radius: 8px;
+   height: 30px;
+   color: azure;
+}
+.part-1{
+    width: 620px;
+    height: 360px;
+    gap: 14px;
+    padding: 15px;
+}
+
+.A-1{
+    color:black;
+    font-family: Fira Sans;
+    font-size: 30px;
+    text-align: left; 
+}
+
+.size{
+    width: 302px;
+    height: 200px;
+    border:1px solid #757575;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    border-style: none;
+   padding-left: 10px;
+}
+
+.p-2{
+    color:black;
+    font-family: Fira Sans;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 8px;
+}
+.p-3{
+    color:#757575;
+    font-family: Fira Sans;
+    font-size: 14px;
+    text-align: left;
+    padding-top: 6px;
+    
+}
+.A-2{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+.class-3{
+    margin-top: 20px;
+}
+
+
+.nsize{
+    background-color: aquamarine;
+    width: 358px;
+    background: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    padding-left: 10px;
+    button{
+        border-radius: 8px;
+background: rgb(84, 144, 245);
+    }
+    
+}
+
+
+
+
+.osize{
+    background-color: aquamarine;
+    width: 358px;
+    background: rgb(198, 228, 214);
+    border-radius: 16px;
+    padding-left: 10px;
+    button{
+        border-radius: 8px;
+        background: rgb(9, 161, 92);
+    }
+    
+}
+
+
+
+.psize{
+    
+    width: 358px;
+    background: rgb(247, 235, 207);
+    border-radius: 16px;
+    padding-left: 10px;
+    button{
+        border-radius: 8px;
+        background: rgb(255, 194, 57);
+
+    }
+    
+}
+
+.younus{
+    margin-top: 25px;
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+}
+ 
+  /* card */
+
+.card-imge{
+    width: 406px;
+    height: 306px;
+    border-radius: 16px;
+    /* padding-left: 20px; */
+}
+
+.a-2{
+    width: 700px;
+    padding-left: 25px;
+}
+.card{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+     background-color: aliceblue;  
+     /* background-color: #CCE5FF; */
+   
+    border-radius: 25px;
+
+}
+.donate{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+.centrrrr{
+    text-align: center;
+}
+
+.buttom button{
+    width: 250px;
+    height: 80px;
+    margin-right: 30px;
+    margin-bottom: 25px;
+    color: green;
+   border-radius: 16px;
+   border: 1px solid black;
+   
+}
+
+.buttom button:hover{
+    color: red;
+background-color: green;
+}
+.btnm-3{
+    background-color: aquamarine;
+}
+form input[type="text"]{
+   height: 40px;
+   width: 1100px;
+   background-color: #f8f8ff;
+   border: none;
+   text-align: center;
+   font-family: Fira Sans;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+  .b{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+  }   
+
+
+  .inpuuu form input[type="text"]{
+    margin-top: 20px;
+width: 1080px;
+  }
+  .LAA {
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: column;  */
+    justify-content: center;
+    align-items: center;
+  }
+  .ui-ii form input[type="text"]{
+    /* margin-top: 20px; */
+width: 500px;
+height: 40PX;
+margin-top: 18PX;
+text-align: left;
+  }
+  .ui-i button{
+    margin-top: 12PX;
+    height: 40px;
+  }
+ .kl{
+    margin-top: 10px;
+ }
+.ldonate{
+    background-color: rgb(198,228,214);
+    margin-top: 12px;
+    padding-bottom: 30px;
+}
+.footer-description{
+    /* width: 700px; */
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: column;  */
+    justify-content: center;
+    align-items: center; 
+    gap:12px;
+}
+.N{
+    color: green;
+}
+.BD{
+    color: red;
+}
